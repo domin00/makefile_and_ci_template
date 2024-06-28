@@ -8,4 +8,4 @@ test:
 format:
 	black *.py 
 
-all: install lint test 
+all: install test format  
