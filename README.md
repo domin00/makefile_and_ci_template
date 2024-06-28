@@ -5,3 +5,4 @@ Basic project to test out how to use both the Makefile file for streamlined comm
 If you want you can also enjoy this super basic todo list app XD
 
 Status Badge:
+[![Makefile CI](https://github.com/domin00/makefile_and_ci_template/actions/workflows/template-ci.yml/badge.svg)](https://github.com/domin00/makefile_and_ci_template/actions/workflows/template-ci.yml)
